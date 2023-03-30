@@ -1,14 +1,12 @@
 En.
 ### Hi there 👋
 My name is Lautaro Nocera, I'm 28 years old and i'm from Argentina, but i am currently living in Valencia, Spain since 2020.
-I'm learning skills such as MySQL, Python, Tableau, PowerBI, librarys like Pandas and some applied statistic.
-I'm looking work like Jr. Data analyst to firm up my skills.
+ I am a Jr. Data Analysis Developer with experience in Python, MySQL, PowerBI, Sklearn, Matplotlib, Numpy, among others. I love exploring large datasets to uncover patterns and trends. I am interested in learning and developing my skills in the field of Artificial Intelligence in the future. I am a curious and self-taught individual, always seeking new challenges to improve my skills. I am a committed and passionate person towards my work.
 
 Es.
 ### Hola ! 👋
 Mi nombre es Lautaro Nocera, tengo 28 años y soy argentino. Actualmente vivo en Valencia, España desde mediados del año 2020.
-Principalmente estoy aprendiendo habilidades en MySQL, Python, Tableau, PowerBI, librerias como Pandas y estadistica aplicada.
-Estoy buscando poder desempeñarme en el area de Analisis de datos como analista Jr. para afianzar mis conocimientos.
+Soy un desarrollador de Data Analysis Jr. con experiencia en Python, MySQL, PowerBI, Sklearn, Matplotlib, Numpy, entre otros. Me encanta explorar grandes conjuntos de datos para descubrir patrones y tendencias. Estoy interesado en aprender y desarrollar mis habilidades en el campo de la Inteligencia Artificial en el futuro. Soy curioso y autodidacta, y siempre estoy en busca de nuevos retos para mejorar mis habilidades. Me considero una persona comprometida y apasionada por mi trabajo.
 
 
 <!--
